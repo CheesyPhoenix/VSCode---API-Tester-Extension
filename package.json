@@ -2,6 +2,10 @@
 	"name": "api-tester",
 	"displayName": "API Tester",
 	"description": "Tool for testing APIs",
+	"publisher": "cheesy-phoenix",
+	"repository": {
+		"url": "https://github.com/CheesyPhoenix/VSCode---API-Tester-Extension"
+	},
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.69.0"
